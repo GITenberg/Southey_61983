@@ -1,0 +1,36 @@
+_repo: Southey_61983
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dowden, Edward
+    birthdate: 1843
+    deathdate: 1913
+    gutenberg_agent_id: '4643'
+    url: http://www.gutenberg.org/2009/agents/4643
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Dowden
+  editor:
+    agent_name: Morley, John
+    alias: Morley, Viscount
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '3767'
+    url: http://www.gutenberg.org/2009/agents/3767
+    wikipedia: https://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
+description: ''
+gutenberg_issued: '2020-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61983'
+  lccn: '13033727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: '''Harper''s Handy Series'' No. 134, ''English Men of Letters'''
+subjects:
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Southey, Robert, 1774-1843'
+- !lcc 'PR'
+- GITenberg
+title: Southey
+url: http://www.gutenberg.org/ebooks/61983
